@@ -19,7 +19,7 @@
     <p>History</p>
     <https://abenovatuka01.wixsite.com/my-site-1">Электрондық партфолия</a>
     <h1>tursynay abenova</h1>
-    <img src="https://static.wixstatic.com/media/4d6acd_1abd1b20a45e449e8d6b5521e9fa2de0~mv2.jpg/v1/fill/w_473,h_629,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/4d6acd_1abd1b20a45e449e8d6b5521e9fa2de0~mv2.jpg"alt="Tursynay_abenova">
+    <img src="https://static.wixstatic.com/media/4d6acd_1abd1b20a45e449e8d6b5521e9fa2de0~mv2.jpg/v1/fill/w_473,h_629,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/4d6acd_1abd1b20a45e449e8d6b5521e9fa2de0~mv2.jpg" width="250"/>
     
 </body>
 </html>
